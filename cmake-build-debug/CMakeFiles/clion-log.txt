@@ -1,0 +1,2 @@
+CMakeLists.txt not found in D:\Poomkun\My Coding\Hello-C
+Environment (MinGW/Cygwin) is not selected Configure
