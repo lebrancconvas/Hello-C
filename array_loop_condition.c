@@ -16,12 +16,14 @@ int main(void) {
     if(i<5)
     {
       mem[i].age = 20;
+      mem[i].salary = 25000;
     }
     else
     {
       mem[i].age = 30;
+      mem[i].salary = 40000;
     }
-    printf("id : %d\nage : %d\n",mem[i].id,mem[i].age);
+    printf("id : %d\nage : %d\nsalary : %d\n",mem[i].id,mem[i].age,mem[i].salary);
     printf("--------------------\n");
   }
   return 0;
