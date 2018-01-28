@@ -9,7 +9,7 @@
 <ul>
 <li>Dev-C++ 5.11</li>
 <li>Code::Blocks 17.12</li>
-<li><a href="repl.it/language/c">C-Programing Website IDE by repl.it</a></li>
+<li><a href="repl.it/languages/c">C-Programing Website IDE by repl.it</a></li>
 </ul>
 <h2 id="tutorial">Tutorial</h2>
 <ul>
